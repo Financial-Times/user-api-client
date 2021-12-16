@@ -1,3 +1,5 @@
+# This project has been decommissioned
+
 # User Api Client Library
 
 ## Using the client library
